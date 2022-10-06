@@ -2,4 +2,4 @@
 
 Hello I'm CWebBuilderK,
 
-I am interested in programming. I am currently learning a lot of web development things. I'm looking to collaborate on projects immersed in the development profession. I can be reached at wb@califkidd.com
+I am interested in programming. I am currently learning a lot of web development things. I'm would like to collaborate on projects immersed in the development profession. I want to develop apps from brief to deployment/maintenance. I can be reached at wb@califkidd.com
