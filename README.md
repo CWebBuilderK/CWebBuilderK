@@ -7,6 +7,9 @@ I am interested in programming. I am currently learning a lot of web development
 GitHub is cool!
 
 Trying to be a better developer:
+
 Never ask for advice you don't intend to use.
+
 Never ask for advice and not use that advice.
+
 Never get mad because someone gave you advice.
